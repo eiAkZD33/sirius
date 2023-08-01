@@ -1,0 +1,1 @@
+docker exec -it ipfs_ipfs_1  ipfs add -r /export/
